@@ -13,7 +13,7 @@
 <!-- <img align="right" alt="Coding" width="600" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"> -->
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
-- 🔭 My current project (https://asmasayyamdinemart.vercel.app/)
+- 🔭 My current projects: uploading soon
 
 - 🌱 I’m currently learning *Python*
 
