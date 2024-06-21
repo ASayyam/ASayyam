@@ -7,7 +7,7 @@
 
 <h3 align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Passionate+full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Passionate+Full-Stack+Developer)](https://git.io/typing-svg)
 
 </h3>
 <!-- <img align="right" alt="Coding" width="600" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"> -->
@@ -25,8 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sara George" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sara_george" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asma-sayyam-1023b91b6/?originalSubdomain=pk" height="30" width="40" /></a>
 </p>
 
 ## 🔧 Technologies
