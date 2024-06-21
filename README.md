@@ -7,7 +7,7 @@
 
 <h3 align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Passionate+front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Passionate+full-stack+developer)](https://git.io/typing-svg)
 
 </h3>
 <!-- <img align="right" alt="Coding" width="600" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"> -->
