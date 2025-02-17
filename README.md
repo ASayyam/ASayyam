@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning *new technologies in backend development*
 
-- 💬 Ask me about * Generative AI| Agentic AI| Customized GPTs  | Typescript| Tailwind Css| SQL| Kafka| Kong| Database|Next JS *
+- 💬 Ask me about * Generative AI| Agentic AI| Customized GPTs | Colab | Typescript| Tailwind Css| SQL| Kafka| Kong| Database|Next JS *
 
 - 📫 How to reach me *asmasayyam@gmail.com*
 
