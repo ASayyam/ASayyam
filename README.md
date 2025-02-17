@@ -7,7 +7,8 @@
 
 <h3 align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Passionate+Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Agentic_AI_Engineer
+)](https://git.io/typing-svg)
 
 </h3>
 <!-- <img align="right" alt="Coding" width="600" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"> -->
@@ -17,7 +18,7 @@
 
 - 🌱 I’m currently learning *new technologies in backend development*
 
-- 💬 Ask me about *Next JS | React Js | Typescript| Tailwind Css| SQL| Kafka| Kong| Database| Postman*
+- 💬 Ask me about * Generative AI| Agentic AI| Customized GPTs  | Typescript| Tailwind Css| SQL| Kafka| Kong| Database|Next JS *
 
 - 📫 How to reach me *asmasayyam@gmail.com*
 
