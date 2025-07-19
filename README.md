@@ -1,13 +1,13 @@
 ![MasterHead](https://github.com/gayanukabulegoda/Programming-Essentials-Web/blob/main/assests/img/aboutPageImg.jpg?raw=true) 
 <h1 align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=F2F724&random=false&width=435&lines=Hi+there+I'm+Asma_Sayyam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=98FF98&random=false&width=435&lines=Hi+there+I'm+Asma_Sayyam)](https://git.io/typing-svg)
 
 </h1>
 
 <h3 align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Full_Stack_Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Full_Stack_Web_Developer
 )](https://git.io/typing-svg)
 
 </h3>
