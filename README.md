@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif) 
+![MasterHead](https://github.com/gayanukabulegoda/Programming-Essentials-Web/blob/main/assests/img/aboutPageImg.jpg?raw=true) 
 <h1 align="center"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=F2F724&random=false&width=435&lines=Hi+there+I'm+Asma_Sayyam)](https://git.io/typing-svg)
