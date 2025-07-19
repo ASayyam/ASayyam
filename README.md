@@ -61,13 +61,4 @@
 
 
 
-![Serverless](https://img.shields.io/badge/Serverless-FF4D00?style=flat-square&logo=serverless&logoColor=white)
-
----
-
-### 🚀 Deployment & Services  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=flat-square&logo=gitlab&logoColor=white)  
-![Microservices](https://img.shields.io/badge/Microservices-FF6D00?style=flat-square&logo=microgen&logoColor=white)
-
 
