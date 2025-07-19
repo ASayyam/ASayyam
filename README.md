@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif) 
 <h1 align="center"> 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=F2F724&random=false&width=435&lines=Hi+there+I'm+Asma_Sayyam)](https://git.io/typing-svg)
@@ -7,7 +7,7 @@
 
 <h3 align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Agentic_AI_Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=16C3FF&random=false&width=435&lines=Full_Stack_Developer
 )](https://git.io/typing-svg)
 
 </h3>
